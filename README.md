@@ -1,1 +1,1 @@
-# mail_classifer
+# mail_classifier
